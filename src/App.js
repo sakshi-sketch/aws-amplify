@@ -1,12 +1,12 @@
-
 import './App.css';
-import page from './page.js';
 
 function App() {
   return (
     <div className="App">
       <h1>Student Information</h1>
-      {page}
+      <h2>Sakshi Garbhe</h2>
+      <h2>Div : BE 5</h2>
+      <h2>Roll No:42321</h2>
     </div>
   );
 }
